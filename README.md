@@ -13,3 +13,6 @@
     - f-strings: f before string and integers, floats, etc. inside {}
         - Example: print(f"Your score is {score}")
 - Day 3 Notes: 
+    - ascii.co.uk/art
+    - Three single quotes at beginning and end (''') allows you to do multiple lines of a string
+    
